@@ -1,0 +1,6 @@
+{
+  "name": "OpenV Studio",
+  "description": "GTA V RPF archive explorer, OIV mod package manager, XML/meta editor, DDS/YTD texture inspector, and JOAAT hash toolkit for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
